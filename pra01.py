@@ -13,8 +13,9 @@ data=pd.Series([55,20,33])
 #建立dataframe{"key":[value,value]}
 data=pd.DataFrame({
   "name":["John","Python","Mary"],
-  "salary":[1000,555,666]
-
+  "salary":[1000,555,6667777]
+#addaddaddaddaddaddaddaddaddaddadd
+#123123123123123123123123123123123
 })
 #print(data)
 #取得特定欄位(直行)
